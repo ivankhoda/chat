@@ -1,0 +1,14 @@
+.title{
+  text-align: center;
+}
+.container{
+  margin-top: 20px;
+  
+}
+.container_main{
+  max-width: 400px;
+  max-height: 500px;
+}
+.chat_messages{
+  max-height: 500px;
+}
